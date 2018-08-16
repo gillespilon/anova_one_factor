@@ -1,0 +1,11 @@
+*.ipynb_checkpoints
+*.csv
+*.xls
+*.xlsx
+*.XLSX
+*.pdf
+*.ps
+*.mpj
+*.mtw
+*.MPJ
+*.MTW
