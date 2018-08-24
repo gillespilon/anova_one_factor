@@ -5,6 +5,8 @@
 
 This repository contains two notebooks: one performs a one-factor analysis of variance (ANOVA) and the other estimates quartiles using the nine known methods found in the literature. The latter notebook arose while comparing results of the first notebook with Minitab statistical software, which led to questions of why the difference.
 
+This repository is incomplete. Future work is ongoing.
+
 # Methodology
 
 Various data munging operations are performed using pandas. Various statistical analyses are performed using statsmodels, scipy, and numpy.
