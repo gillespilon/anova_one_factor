@@ -1,5 +1,5 @@
-[![Coverity Scan Build Status](https://img.shields.io/coverity/scan/10257.svg)](https://scan.coverity.com/projects/pilona-rpn)
-[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://travis-ci.org/pilona/RPN)
+[![Coverity Scan Build Status](https://img.shields.io/coverity/scan/10257.svg)](https://scan.coverity.com/projects/gillespilon-anova_one_factor)
+[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://travis-ci.org/gillespilon/anova_one_factor)
 
 # In brevi
 
